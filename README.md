@@ -9,7 +9,7 @@ It supports **Matroska subtitles**, integrates with multiple APIs (TMDB, RARBG, 
 
 ---
 
-## 📺 Project Demo
+## 📺 Project Demo - Youtube (Click on the image)
 
 [![Storrflix Project Demo](http://img.youtube.com/vi/3JRlO3fNyk8/0.jpg)](http://www.youtube.com/watch?v=3JRlO3fNyk8 "Storrflix Project Demo")
 
@@ -63,7 +63,7 @@ Each screenshot is displayed at full container width. Click to view in full size
   </figure>
 </div>
 
-### Watch Together
+### Watch Together - Youtube (Click on the image)
 
 [![Watch Together in Storrflix](http://img.youtube.com/vi/VelApI5JMr8/0.jpg)](http://www.youtube.com/watch?v=VelApI5JMr8 "Watch Together in Storrflix")
 
